@@ -93,18 +93,13 @@ td{
   padding-right: 10px;
   padding-left: 10px;
   text-align: center;
-  justify-items: center;
   align-items: center;
-  vertical-align: center;
+  vertical-align: middle;
   text-transform: uppercase;
   background-color: #7e0825;
-  
-
 }
 
 .rowhead{
-  /* border-right: black;
-  border-width: 2px; */
   border-right: 2px solid #000000;
   border-top: 2px solid #000000;
 }
